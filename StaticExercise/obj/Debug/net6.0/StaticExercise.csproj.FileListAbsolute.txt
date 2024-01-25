@@ -1,0 +1,15 @@
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/debrawinter/Desktop/Repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
